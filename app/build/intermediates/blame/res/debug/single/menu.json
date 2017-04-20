@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menuvr.xml",
+        "source": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\src\\main\\res\\menu\\menuvr.xml"
+    },
+    {
+        "merged": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menug.xml",
+        "source": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\src\\main\\res\\menu\\menug.xml"
+    },
+    {
+        "merged": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menup.xml",
+        "source": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\src\\main\\res\\menu\\menup.xml"
+    },
+    {
+        "merged": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\don_r\\AndroidStudioProjects\\TucanoApp\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]

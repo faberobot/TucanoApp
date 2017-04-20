@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TucanoApp</string>
+    <string name="tucanoapp">Tucano App</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="iniciar">iniciar</string>
+    <string name="registrarse">registrarse</string>
+    <string name="Registro">Registro</string>
+    <string name="Nombre">Nombre Usuario</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="rcontraseña">Repetir Contraseña</string>
+    <string name="Registrar">Registrarse</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="miPerfil">Mi Perfil</string>
+    <string name="cerrar">Cerrar Sesion</string>
+    <string name="usuario">Usuario</string>
+    <string name="Ppal">Principal</string>
+    <string name="Simulador">Simulador</string>
+    <string name="Vuelo">Vuelo Real</string>
+    <string name="rango">Rango: Principiante</string>
+    <string name="tutorial">Iniciar Tutorial</string>
+    <string name="vuelo">Vuelo Libre</string>
+    <string name="config">Configuración</string>
+    <string name="mando">Tipos de mando</string>
+    <string name="calibracion">Calibración de Sensores</string>
+    <string name="sintonia">Sintonizar Controlador</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

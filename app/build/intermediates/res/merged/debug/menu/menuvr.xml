@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mConfiguracion"
+        android:title="@string/config"/>
+
+    <item
+        android:id="@+id/mMainActivity"
+        android:title="@string/Ppal"/>
+
+    <item
+        android:id="@+id/mPerfil"
+        android:title="@string/miPerfil"/>
+
+    <item
+        android:id="@+id/mCerrar"
+        android:title="@string/cerrar"/>
+</menu>

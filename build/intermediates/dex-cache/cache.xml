@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.2.0_4890bd68eacd3317a66fd27f6fb397fcd3eea600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_7a7818aee1b14d3a362bc5560818256af3cc90b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ff0cfc7a23d6fff7d3b58250d4c4ec128f4b9c5">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\instant-run_1d6186ddc561c02e6fbd92cef7c4d16a9921eabf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_0ac294cebcc71f691c5dadbf25f6c5f45e305fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_5dca6c9859f214bf859b79627ff4c079e7849791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37060aff9a100d81eedbaaa298c950fc1309368a">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_96df7e60e9ca44d38624b989314be08c3f185e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_07ca305afc772f77ae9f1316d4db9f392d544bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_ba29b819bb07d9e87891b124c9b7cfa57cfc4302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_be8896819abe38e0b885eca000164c69e66ce9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_16a31da53dbc99ad04e93af75f45dec639e67f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_3da64959bfaf0e4fde56ab7d2de5a6ecdb837775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_d7cab2e921e408df5730b04def9b4cc165e026fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_a312fe3af80da10ffee5add21145b86c5d55d063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_356122d697d11ce576a9fc6d3bdf4cd2be1af89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_b9bcd9c0cf21d78abe014fc0c28387468dd43dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_81d2ff6c63a80e1a79e11ea5dc040ab94d4dae6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_967296b3fbcd7c9d625add7aa6d36a7a5f229739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_4a3594bca5c21e64c62be85e6dab70ef6a72bc90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_6df5fbe518697aae11310d5a8b0118841795f268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\don_r\AndroidStudioProjects\TucanoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_15823b1c6f004ae6a768f1bb269d3ea2e3ab4eeb.jar" />
+    </item>
+
+</items>
